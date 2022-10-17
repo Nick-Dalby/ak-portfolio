@@ -11,6 +11,7 @@ Vanilla javascript portfolio site with variable fonts and page transitions 🟡
 **Tech used:** HTML, CSS, JavaScript, [BarbaJs](https://barba.js.org/)
 
 Simple mult-page site
+
 Features:
 
 - variable font interaction transitions on hover and scroll
